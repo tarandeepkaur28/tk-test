@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tk-test
+  annotations:
+    github.com/project-slug: tarandeepkaur28/tk-test
+spec:
+  type: other
+  lifecycle: unknown
