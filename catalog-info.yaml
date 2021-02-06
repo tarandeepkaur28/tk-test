@@ -7,4 +7,5 @@ metadata:
     github.com/project-slug: tarandeepkaur28/tk-test
 spec:
   type: other
+  owner: tarandeep,
   lifecycle: unknown
